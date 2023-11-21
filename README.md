@@ -1,11 +1,12 @@
 # Formal_Methods_in_Robotic-reinforcement-learning-projects-Creating user-friendly Wumpus Game.
 files = POMDP_Wumpus.py, Wumpus_POMDP.py, and all images of gold, pit, wumpus, and robots.
 
-Wumpus World POMDP Game
-Introduction
+##Wumpus World POMDP Game##
+##Introduction##
+
 This repository contains the implementation of a Partially Observable Markov Decision Process (POMDP) game, "Wumpus World", with a graphical interface using Pygame. The game simulates a robot navigating a grid world with pitfalls and a randomly moving Wumpus. The objective is to safely navigating the robot to collect gold while avoiding the Wumpus and pits.
 
-Features
+#Features
 Implementation of POMDP in a grid world environment.
 Graphical animation using Pygame, showing the robot's actions and Wumpus's movements.
 Attractor for reachability objectives to guide the robot.
@@ -13,7 +14,7 @@ Randomized Wumpus movement and environment generation.
 Installation
 To run this project, you'll need Python and Pygame installed on your system.
 
-Prerequisites
+#Prerequisites
 Python (Version 3. x)
 Pygame
 Setup
